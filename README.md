@@ -1,6 +1,8 @@
 # MikeAmp
 A small html5 audio player that supports very simple playlist funcationality.
 
+A demo can be found here: [Netlify Deploy](https://mikeamp.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
