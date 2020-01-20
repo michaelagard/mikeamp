@@ -1,3 +1,6 @@
+# MikeAmp
+A small html5 audio player that supports very simple playlist funcationality.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
